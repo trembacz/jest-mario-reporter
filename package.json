@@ -1,0 +1,36 @@
+{
+  "name": "jest-mario-reporter",
+  "version": "1.0.1",
+  "author": "Tomasz Rembacz <trembacz@squiz.pl>",
+  "description": "Mario Reporter for Jest, based on Mocha's version",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "reporter",
+    "mario",
+    "sounds",
+    "ascii",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trembacz/jest-mario-reporter.git"
+  },
+  "homepage": "https://github.com/trembacz/jest-mario-reporter#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "play-sound": "^1.1.1"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "jest": {
+    "reporters": [
+      "default", ["<rootDir>/index.js", {}]
+    ]
+  }
+}
