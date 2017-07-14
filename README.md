@@ -13,7 +13,7 @@ or
 ## Getting Started
 
 To use this reporter you will need to have an Jest test environment set up.
-In your package.json add new reporter:
+In your ```package.json``` add new reporter:
 
 ```json
 "jest": {
@@ -36,7 +36,8 @@ On failed tests you will see ASCII code + hear sound effect from Mario.
 
 ## Windows users
 **You need "mplayer" installed on your system**
-Tip: Copy ```mplayer.exe``` into folder with ```package.json```
+
+**Tip:** Copy ```mplayer.exe``` into folder with ```package.json```
 
 ## LICENSE
 [MIT](LICENSE)
