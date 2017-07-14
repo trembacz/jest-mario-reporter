@@ -1,6 +1,6 @@
 {
   "name": "jest-mario-reporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Tomasz Rembacz <trembacz@squiz.pl>",
   "description": "Mario Reporter for Jest, based on Mocha's version",
   "main": "index.js",
