@@ -1,6 +1,9 @@
 # Mario Jest Reporter (jest-mario-reporter)
-
 Mario Reporter for Jest, based on [![Mocha's version]()](https://www.npmjs.com/package/mocha-mario-reporter)
+
+[![Build Status](https://travis-ci.org/trembacz/jest-mario-reporter.svg?branch=master)](https://travis-ci.org/trembacz/jest-mario-reporter)
+[![Dependencies](https://david-dm.org/trembacz/jest-mario-reporter/status.svg)](https://david-dm.org/trembacz/jest-mario-reporter?view=list) 
+[![devDependencies](https://david-dm.org/trembacz/jest-mario-reporter/dev-status.svg)](https://david-dm.org/trembacz/jest-mario-reporter?type=dev&view=list)
 
 ### Installing
 
